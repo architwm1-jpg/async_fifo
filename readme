@@ -1,0 +1,2 @@
+The Project mentioned above  is the implementation of Asynchronous FIFO which is used in Data Management.Since the Modules in FPGA have different Speed Domain 
+We use Async Fifo which will act as a Data Buffer for smooth data read and write 
